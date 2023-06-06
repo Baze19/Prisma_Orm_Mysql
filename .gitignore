@@ -1,0 +1,4 @@
+node_modules
+.env
+# Keep environment variables out of version control
+#.env you will keep this file out the git, but I am adding it as It is a config that you can reuse
